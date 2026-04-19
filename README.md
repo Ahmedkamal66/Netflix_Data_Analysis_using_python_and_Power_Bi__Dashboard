@@ -63,4 +63,4 @@ The dashboard shows:
   <li>The Dashboard will show IMBD Rating, Show Duration, Yearly Realease, Viewer Rating, Award Received by Tv show and Movies </li>
   </ul>
   
-  ![Netflix Dashboard]()
+  ![Netflix Dashboard](https://github.com/Ahmedkamal66/Netflix_Data_Analysis_using_python_and_Power_Bi__Dashboard/blob/main/Netflix_Data_Analysis_using_python_Power_Bi_Dashboard-main/210554952-15dea017-7997-4dfa-bb8a-6f8b27b84e11.jpg)
